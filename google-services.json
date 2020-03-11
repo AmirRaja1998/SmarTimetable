@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "763352091478",
+    "firebase_url": "https://smarttimetable-2d186.firebaseio.com",
+    "project_id": "smarttimetable-2d186",
+    "storage_bucket": "smarttimetable-2d186.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763352091478:android:feda430f10224bda5b24f7",
+        "android_client_info": {
+          "package_name": "com.crissalex.smarttimetable"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "763352091478-ooctmcc13upjblj8eh3q03b71tghbbm8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.crissalex.smarttimetable",
+            "certificate_hash": "261a6f85a23b8928730405068a6490f2da2ea233"
+          }
+        },
+        {
+          "client_id": "763352091478-56aj6bq4j899jbbntsodo5533kjgfqn7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2I9jPnAblgxGoPWu9IQcrwxkpCvIGjbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "763352091478-56aj6bq4j899jbbntsodo5533kjgfqn7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
